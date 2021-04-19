@@ -61,10 +61,6 @@ public class DiscloseServer {
 		return -1;
 	}
 	
-	public DiscloseServerClientConnection getClient(int index) {
-		return connectedClients.get(index);
-	}
-	
 	public DiscloseServerClientConnection getUserByName(String name) {
 		for (int i = 0; i < connectedClients.size(); i++) {
 			if (connectedClients.get(i).getUsername().equals(name)) {
