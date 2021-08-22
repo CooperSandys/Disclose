@@ -1,4 +1,6 @@
-# Disclose
+## ** Note: Disclose has been discontinued as it was just a school project. Disclose communication is not secure. basically pls dont use this **
+
+## Disclose
 
 Welcome to Disclose! Disclose is a messaging service based on a client-server framework, and as such the Disclose Server and Disclose Client workspaces have been included in this
 repo (they are both Eclipse workspaces).
