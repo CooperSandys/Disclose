@@ -1,4 +1,4 @@
-## ** Note: Disclose has been discontinued as it was just a school project. Disclose communication is not secure. basically pls dont use this **
+## **Note: Disclose has been discontinued as it was just a school project. Disclose communication is not secure. basically pls dont use this**
 
 ## Disclose
 
